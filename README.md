@@ -22,6 +22,6 @@ This repository contains the reviewed manuscript package for the beginner-focuse
 - `source/AI_Social_Media_Side_Hustles_Reviewed_V4.docx` — submitted source manuscript
 - `source/AI_Social_Media_Side_Hustles_Manuscript.md` — editable Markdown version of the final book text
 
-The final manuscript is approximately 25,585 words. The requested 30,000–35,000-word range was treated as a target; repeated draft scaffolding was removed, and the final length was kept substantive rather than padded. The author biography remains a placeholder for final author approval.
+The final manuscript is approximately 25,500 words. The requested 30,000–35,000-word range was treated as a target; repeated draft scaffolding was removed, and the final length was kept substantive rather than padded. No author biography is included in the manuscript, per the author’s request.
 
 Platform rules and program eligibility can change. The references and quality report identify the source review date and limitations. The book has not been submitted to KDP or published from this repository.

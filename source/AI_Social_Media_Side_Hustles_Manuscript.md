@@ -13,7 +13,7 @@ This book is educational information, not legal, tax, financial, or professional
 
 The examples, customer names, prices, sales calculations, and business scenarios identified as hypothetical are teaching illustrations. They are not actual client results, typical earnings, or promises. No result is guaranteed. Platform names belong to their respective owners; references to them do not imply endorsement.
 
-The author is responsible for the final manuscript. Platform policies and official help pages were reviewed on October 26, 2026. Recheck them before relying on a rule or threshold.
+Platform policies and official help pages were reviewed on October 26, 2026. Recheck them before relying on a rule or threshold.
 
 
 # Contents
@@ -44,7 +44,6 @@ The author is responsible for the final manuscript. Platform policies and offici
 - Appendix I: Monthly Income and Expense Tracker
 - Appendix J: Printable 30-Day Action Plan
 - References and Further Reading
-- About the Author
 
 # Introduction: A Better Question Than “How Much Can I Make?”
 
@@ -1679,6 +1678,4 @@ Official sources reviewed on October 26, 2026. Program terms, help pages, featur
 [23] OpenAI Help Center, Data Usage FAQ. Data-use distinctions across personal and business services; recheck current settings and terms. Accessed October 26, 2026. [https://help.openai.com/en/articles/7039943-data-controls-faq](https://help.openai.com/en/articles/7039943-data-controls-faq)
 
 
-# About the Author
 
-Jaspal Singh writes practical guides for readers exploring digital tools and online business. Before publication, the author may replace this placeholder biography with a verified description of relevant experience, publications, and contact information. No credentials or client results should be added unless accurate and documented.
