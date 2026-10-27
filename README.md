@@ -4,7 +4,8 @@ This repository contains the reviewed manuscript package for the beginner-focuse
 
 ## Deliverables
 
-- `deliverables/Cover_Art.jpg` — Kindle eBook front cover (1600 × 2400 px)
+- `deliverables/Cover_Art.png` — author-selected uploaded artwork, included unchanged
+- `deliverables/Cover_Art.jpg` — earlier generated cover concept
 - `deliverables/cover-prototypes/Illustrated_Cover_Prototypes.zip` — five illustrated cover concepts
 - `deliverables/cover-prototypes/AI_Robot_Cover_Prototypes.zip` — five illustrated robot/AI concepts with no human figures
 - `deliverables/cover-prototypes/AI_Robot_Cover_Concepts_Contact_Sheet.jpg` — robot/AI comparison preview
