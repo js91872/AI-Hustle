@@ -4,14 +4,14 @@ This repository contains the reviewed manuscript package for the beginner-focuse
 
 ## Deliverables
 
-- `deliverables/Cover_Art.png` — author-selected uploaded artwork, included unchanged
-- `deliverables/Cover_Art.jpg` — earlier generated cover concept
+- `deliverables/Cover_Art.png` — original author-supplied artwork, preserved unchanged
+- `deliverables/Cover_Art.jpg` — final Kindle cover based on the selected artwork, with corrected subtitle
 - `deliverables/cover-prototypes/Illustrated_Cover_Prototypes.zip` — five illustrated cover concepts
 - `deliverables/cover-prototypes/AI_Robot_Cover_Prototypes.zip` — five illustrated robot/AI concepts with no human figures
 - `deliverables/cover-prototypes/AI_Robot_Cover_Concepts_Contact_Sheet.jpg` — robot/AI comparison preview
 - `deliverables/cover-prototypes/Illustrated_Cover_Concepts_Contact_Sheet.jpg` — comparison preview
-- `deliverables/Final_Master_Manuscript.docx` — complete edited manuscript
-- `deliverables/Kindle_Ready.epub` — reflowable EPUB with Kindle navigation
+- `deliverables/Final_Master_Manuscript.docx` — edited manuscript with the cover as its first page
+- `deliverables/Kindle_Ready.epub` — reflowable EPUB with embedded cover and navigation
 - `deliverables/Editorial_Quality_Report.pdf` — chapter word counts, corrections, QA findings, and limitations
 - `deliverables/Research_References.docx` — official platform, legal, and publishing references
 - `deliverables/Amazon_KDP_Listing.docx` — listing copy, keywords, category suggestions, and pricing rationale
