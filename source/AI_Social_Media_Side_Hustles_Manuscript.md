@@ -1,6 +1,6 @@
 AI Social Media Side Hustles for Beginners
 
-Build Real Income Streams with ChatGPT, YouTube, Instagram, TikTok, and Digital Products — A Practical Step-by-Step Guide
+A Practical Guide to Building Income with AI and Social Media
 
 Jaspal Singh
 
