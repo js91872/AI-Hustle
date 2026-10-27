@@ -4,6 +4,7 @@ This repository contains the reviewed manuscript package for the beginner-focuse
 
 ## Deliverables
 
+- `deliverables/Cover_Art.jpg` — Kindle eBook front cover (1600 × 2400 px)
 - `deliverables/Final_Master_Manuscript.docx` — complete edited manuscript
 - `deliverables/Kindle_Ready.epub` — reflowable EPUB with Kindle navigation
 - `deliverables/Editorial_Quality_Report.pdf` — chapter word counts, corrections, QA findings, and limitations
